@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Edvora</string>
+    <string name="user_name">Dhruv Singh</string>
+    <string name="tab_text_1">Rides:</string>
+    <string name="tab_text_2">Nearest</string>
+    <string name="tab_text_3">Upcoming</string>
+    <string name="tab_text_4">Past</string>
+    <string name="tab_text_5">Filter</string>
+
+    <string name="ride_id">Ride Id :</string>
+    <string name="origin_station">Origin Station :</string>
+    <string name="station_path">Station_path :</string>
+    <string name="date">Date :</string>
+    <string name="distance">Distance :</string>
+</resources>
